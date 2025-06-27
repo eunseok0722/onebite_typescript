@@ -26,3 +26,12 @@ let tup1: [number, number] = [1, 2];
 
 let tup2: [number, string, boolean] = [1, "2", true];
 // tup2 = [1, "2", true, 4]; // 오류
+
+
+// const users: [string, number][] = [
+//     ["이정환", 1],
+//     ["이아무개", 2],
+//     ["김아무개", 3],
+//     ["박아무개", 4],
+//     [5, "최아무개"]
+// ];

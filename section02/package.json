@@ -11,7 +11,9 @@
   "description": "",
   "dependencies": {
     "@types/node": "^24.0.4",
-    "tsc": "^2.0.4",
+    "tsc": "^2.0.4"
+  },
+  "devDependencies": {
     "typescript": "^5.8.3"
   }
 }
