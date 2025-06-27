@@ -1,0 +1,17 @@
+{
+  "include": ["src"],
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "outDir": "dist",
+    
+    "moduleDetection": "force",
+    "skipLibCheck": true,
+    "moduleResolution": "node",
+    "strict": true,
+    // "strictNullChecks": false /* 임시로 null을 다른 타입에 넣을 수 있게 해줌 */
+  },
+  "tsx": {
+    "esm": true
+  }
+}
