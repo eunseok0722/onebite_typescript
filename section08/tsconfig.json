@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "outDir": "dist",
+    "strict": true,
+    "moduleDetection": "force",
+    "moduleResolution": "node",
+    "allowJs": true,
+    "noImplicitAny": true // false : 암시적으로 any 타입이 포함되지 않도록 설정
+  },
+  "tsx": {
+    "esm": true
+  },
+  "include": ["src"]
+}
